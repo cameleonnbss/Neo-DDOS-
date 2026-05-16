@@ -30,7 +30,7 @@ Unauthorized use against systems you do not own is **ILLEGAL** and punishable by
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/cameleonnbss/Neo-DDOS-
-cd Neo-DDOS
+cd Neo-DDOS-
 ```
 
 ### **2. Install Dependencies**
@@ -46,7 +46,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install git
 git clone https://github.com/cameleonnbss/Neo-DDOS-
-cd Neo-DDOS
+cd Neo-DDOS-
 pip install -r config/requirements.txt
 ```
 *(Note: Some features like **Scapy** or **ARP Spoof** may not work on Termux due to limitations.)*
