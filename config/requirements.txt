@@ -1,8 +1,7 @@
-fake-useragent
+requests>=2.31.0
+fake-useragent>=1.4.0
 dnspython>=2.4.0
 colorama>=0.4.6
 psutil>=5.9.0
-scapy>=2.5.0
 cryptography>=41.0.0
-socket
-subprocess32>=3.5.4
+scapy>=2.5.0
