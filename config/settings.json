@@ -1,0 +1,13 @@
+{
+  "default_duration": 10,
+  "default_threads": 100,
+  "max_threads": 10000,
+  "timeout": 3,
+  "packet_size": 65500,
+  "user_agent_rotation": true,
+  "log_attacks": false,
+  "auto_update": false,
+  "dns_servers": ["8.8.8.8", "1.1.1.1", "9.9.9.9"],
+  "ntp_servers": ["time.google.com", "pool.ntp.org", "time.windows.com"],
+  "memcached_servers": []
+}
